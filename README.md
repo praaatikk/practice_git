@@ -1,1 +1,1 @@
-### Practicimg Git commands
+### Practicing Git commands
